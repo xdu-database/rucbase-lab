@@ -13,7 +13,7 @@
 
 > 本文档将以任务一（存储管理）为例示范你应该如何完成一个任务，并进行自我测试
 
-根据[Rucbase-Lab1存储管理](Rucbase-Lab1[实验文档].md)查看相应任务，进入`rucbase`项目对应的代码目录，你将看到实验文档中说明的需要你本人完成的项目源码`.cpp/.h`文件，除此之外，你还可能看到类似`*_test.cpp/*_test.sh`的文件，其中`*_test.cpp`文件是`GoogleTest`测试源码文件，而`.sh`文件则是在其他实验中使用的非`GoogleTest`测试脚本，在本实验中并不涉及。
+根据[Rucbase-Lab1实验文档](Rucbase-Lab1[实验文档].md)查看相应任务，进入`rucbase`项目对应的代码目录，你将看到实验文档中说明的需要你本人完成的项目源码`.cpp/.h`文件，除此之外，你还可能看到类似`*_test.cpp/*_test.sh`的文件，其中`*_test.cpp`文件是`GoogleTest`测试源码文件，而`.sh`文件则是在其他实验中使用的非`GoogleTest`测试脚本，在本实验中并不涉及。
 
 在阅读本指南前，请确保自己已经按照[Rucbase环境配置文档](Rucbase环境配置文档.md)配置好了环境，并根据[Rucbase使用文档](Rucbase使用文档.md)创建好了`build`目录，测试了`cmake`工具
 

@@ -1,6 +1,6 @@
 本次实验要求学生完成一个存储系统，共包含两个任务，分别为存储管理和索引管理。每个任务又分为不同的子任务。实验要求学生依次完成每个任务，通过测试并提交相关代码和报告。
 
-欲了解如何完成一个任务，请查阅[Rucbase学生实验操作说明示例](docs/Rucbase学生实验操作说明示例.md)
+欲了解如何完成一个任务，请查阅[Rucbase学生实验操作说明示例](Rucbase学生实验操作说明示例.md)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->

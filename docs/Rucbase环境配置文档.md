@@ -9,7 +9,7 @@
   - [代码编辑器VS Code](#代码编辑器vs-code)
     - [安装VS Code](#安装vs-code)
     - [在VS Code中使用SSH连接到虚拟机](#在vs-code中使用ssh连接到虚拟机)
-  - [代码管理平台Gitlab](#代码管理平台gitlab)
+  - [代码托管平台Github](#代码托管平台github)
   - [Git使用](#git使用)
 
 
@@ -100,9 +100,10 @@ VS Code（全称：Visual Studio Code）是一款由微软开发且跨平台的�
 
 
 
-## 代码管理平台Gitlab
+## 代码托管平台Github
 
-Git 是一个版本控制系统，可以让你跟踪你对文件所做的修改。Gitlab是被广泛使用的基于git的开源代码管理平台，极狐(Gitlab)是由Gitlab以技术入股的形式在中国成立的合资公司，在网络方面较为友好。
+Git 是一个版本控制系统，可以让你跟踪你对文件所做的修改。GitHub是世界上最大的软件远程仓库，是一个面向开源和私有软件项目的托管平台，使用Git做分布式版本控制。
+
 你需要在Ubuntu中安装Git来下载实验代码。具体请参阅[Rucbase使用文档](Rucbase使用文档.md)。
 
 [下载Git](https://git-scm.com/download)

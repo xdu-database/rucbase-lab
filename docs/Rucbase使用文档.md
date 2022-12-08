@@ -134,4 +134,4 @@ make lru_replacer_test
 
 ![Architecture](../pics/architecture_fixed.jpg)
 
-本次实验只涉及storage、replacer、recoder和index部分。
+本次实验只涉及storage、replacer、record和index部分。

@@ -1,7 +1,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-[toc]
+- [任务操作指南](#任务操作指南)
+  - [补全代码](#补全代码)
+  - [自我测试](#自我测试)
+    - [扩展](#扩展)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

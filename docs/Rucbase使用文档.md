@@ -6,7 +6,14 @@
 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-[toc]
+- [Rucbase使用指南](#rucbase使用指南)
+  - [环境配置](#环境配置)
+  - [项目下载](#项目下载)
+    - [GoogleTest子模块安装](#googletest子模块安装)
+  - [编译](#编译)
+  - [测试单元](#测试单元)
+  - [基本结构](#基本结构)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -38,7 +45,7 @@ sudo apt-get install libreadline-dev  # readline package
 你可以通过以下方式来完成Rucbase及其子模块的下载
 
 ```bash
-git clone xxxxx
+git clone --recursive https://github.com/xdu-dabatase/rucbase-lab.git
 ```
 
 ### GoogleTest子模块安装
@@ -59,7 +66,7 @@ sudo make install
 
 ## 编译
 
-为了能狗对学生完成的代码进行测试，需要生成测试脚本的编译文件
+为了能够对学生完成的代码进行测试，需要生成测试脚本的编译文件
 
 ```bash
 mkdir build # 位于rucbase-lab目录下

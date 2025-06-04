@@ -30,7 +30,7 @@
 
 ### 学生实验文档
 
-- [Rucbase-Lab1实验文档](docs/Rucbase-Lab1[实验文档].md)(只需完成任务一--存储管理)
+- [Rucbase-Lab1实验文档](docs/Rucbase-Lab1[实验文档].md)(只需完成任务一存储管理)
 - [Rucbase学生实验操作说明示例](docs/Rucbase学生实验操作说明示例.md)
 
 ### 实验任务时间安排
